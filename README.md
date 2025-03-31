@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Jeremy's CS50 Problem Set Solutions
+# Jeremy's CS11 Solutions and Programs
 
 _Fall/Winter 2023_
 
